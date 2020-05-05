@@ -130,9 +130,7 @@
    "pygments_lexer": "ipython3",
    "version": "3.7.6"
   }
- }
-
- ,
+ },
  "nbformat": 4,
  "nbformat_minor": 4
 }
